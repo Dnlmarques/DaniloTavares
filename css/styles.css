@@ -91,7 +91,7 @@ a:hover {
 }
 
 .skill1_gif {
-  float: left;
+  float: right;
   margin-right: 30px;
   width: 200px;
   height: 200px;
@@ -100,8 +100,8 @@ a:hover {
 }
 
 .skill2_img {
-  float: right;
-  margin-left: 30px;
+  float: left;
+  margin-left: -30px;
   width: 250px;
   height: 250px;
   border-radius: 50%;
